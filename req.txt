@@ -1,6 +1,5 @@
 streamlit
-plotly.graph_objects
-plotly.express
+plotly
 minimize
 pandas
 numpy
